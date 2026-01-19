@@ -1,0 +1,1 @@
+This project is learning about autowire spring boot without adding dependencies
