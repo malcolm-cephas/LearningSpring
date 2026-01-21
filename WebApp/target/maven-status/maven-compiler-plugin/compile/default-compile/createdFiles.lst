@@ -1,0 +1,7 @@
+com\malcolm\WebApp\repository\ProductRepo.class
+com\malcolm\WebApp\controller\LoginController.class
+com\malcolm\WebApp\WebAppApplication.class
+com\malcolm\WebApp\controller\ProductController.class
+com\malcolm\WebApp\service\ProductService.class
+com\malcolm\WebApp\controller\HomeController.class
+com\malcolm\WebApp\model\Product.class
